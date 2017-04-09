@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         //String test;
         System.out.println("hahah");
         System.out.println("ha2");
+        System.out.println("ha3");
     }
     // This is a test!!!
 }
